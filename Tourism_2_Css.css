@@ -1,0 +1,189 @@
+.styles{
+         background-repeat:no-repeat ;
+        background-image: url("https://archiviofotografico.museoegizio.it/data/media/STORICO/11-area-tebana/tempio-di-luxor/fotografie-ottocentesche/AB2D213EBCDDD5314A5B83CF87C62D0B.std_full.jpg");
+         margin: 45px;;
+        }
+        .heading{
+font-family: 'Times New Roman', Times, serif;
+font-size: 70px;
+font-weight: bold;
+text-align: left; 
+}
+.main{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+font-weight: bold;
+text-align: left;
+}
+.body{
+    font-family:serif;
+    font-size: 30px;
+    text-align:left;
+
+
+}
+.size{
+border-color: white;
+border: 2px solid rgb(255, 255, 255);
+background-color: rgb(255, 255, 255); 
+border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    padding: 1px;
+}
+.image{
+     
+  float: right;
+  width: 150px;
+  height: 150px;
+  border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+  
+ 
+}
+.card {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+   
+
+}
+.second{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+font-weight: bold;
+text-align: left;
+}s
+.info{
+    font-family:serif;
+    font-size: 45px;
+    text-align:right;
+
+}
+
+
+.size_2{
+border-color: white;
+border: 2px solid rgb(255, 255, 255);
+background-color: rgb(255, 255, 255); 
+border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    padding: 3px;
+}
+.image_2{
+     
+  float: right;
+  width: 150px;
+  height: 150px;
+  border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+  
+ 
+}
+.card {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+.third{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+font-weight: bold;
+text-align: left;
+}
+.last{
+    font-family:serif;
+    font-size: 30px;
+    text-align:left;
+
+
+}
+.size_3{
+border-color: white;
+border: 2px solid rgb(255, 255, 255);
+background-color: rgb(255, 255, 255); 
+border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    padding: 3px;
+}
+.image_3{
+     
+  float: right;
+  width: 150px;
+  height: 150px;
+  border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+  
+ 
+}
+.card {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+.fourth{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+font-weight: bold;
+text-align: left;
+}
+.end{
+    font-family:serif;
+    font-size: 30px;
+    text-align:left;
+
+
+}
+.size_4{
+border-color: white;
+border: 2px solid rgb(255, 255, 255);
+background-color: rgb(255, 255, 255); 
+border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    padding: 3px;
+}
+.image_4{
+     
+  float: right;
+  width: 150px;
+  height: 150px;
+  border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+  
+ 
+}
+.card {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+
+}
+style{
+  background-color: rgb(73, 45, 100); 
+    /* text-align: left ; */
+    /* border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;*/
+} 

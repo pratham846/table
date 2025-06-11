@@ -1,0 +1,52 @@
+
+.main{
+background-image:url("https://www.outofchicago.com/wp-content/uploads/2021/09/Sarah-Marino-Soft-Sand-Dunes-1500px.jpg") ;
+     background-size: 2000px 4000px;
+     margin: 45px;
+     background-repeat: no-repeat;
+
+
+}
+.temple{
+float:center;
+  width: 1100px;
+  height: 350px;
+  border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+    margin:25px;
+    margin-left:250px;
+    margin-right:250px;
+}
+.heading{
+
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 60px;
+font-weight: bold;
+text-align: left;
+ height: 100vh
+  padding 3px;
+  margin-left: 250px;
+
+
+
+}
+.main_body{
+
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align: center;
+    height:110vh;
+    padding: 3px;
+    margin-left:250px;
+    
+}
+style{
+  background-color: rgb(73, 45, 100); 
+    /* text-align: left ; */
+    /* border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;*/
+} 
