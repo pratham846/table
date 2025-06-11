@@ -1,0 +1,55 @@
+.Z{
+    background-repeat: no-repeat;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: 2000px 500px;
+
+}
+
+.start {
+
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.X {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.Y {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tourist {
+    border: 18px solid white;
+    border-top-right-radius: 50px 20px;
+    border-top-left-radius: 50px 20px;
+    background-color: white;
+    border-color: rgb(255, 255, 255);
+}
+.intro{
+
+    text-align: center;
+}
+
+
+    
+
+.button-styles {
+      background-color: rgb(144, 234, 225); 
+    text-align: center;
+    text-decoration: solid; 
+      border: 2px solid rgb(37, 26, 80);
+   border-top-right-radius: 20px 20px;
+    border-top-left-radius: 20px 20px;
+    border-bottom-right-radius: 20px 20px;
+    border-bottom-left-radius: 20px 20px;
+     background-color: rgb(133, 189, 217); 
+}
