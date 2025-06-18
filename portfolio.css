@@ -1,0 +1,567 @@
+.main_page {
+    background-image: url("https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209177459_Rectangle%20(34).svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 560vh;
+}
+.home{
+    position: sticky;
+  top: 0;
+}
+
+
+
+
+.heading {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #120202b7;
+    font-size: 30px;
+    font-weight: bold;
+    border: 40px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    margin-top: 45px;
+    margin-left: 10px;
+
+
+    justify-content: space-between;
+    font-style: italic;
+    border: 5px;
+}
+
+
+
+
+
+.sub_parts {
+    border: 4px solid;
+    border-color: white;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    padding-bottom: 27px;
+    border: 5px;
+    /* padding-left: 500px; */
+
+
+    margin-right: 0px;
+
+}
+
+.sub_parts {
+
+    color: #060540;
+    text-align: end;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+
+
+
+p {
+    /* border: 3px solid; */
+    margin-right: 350PX;
+    border-color: white;
+    /* background-color: white; */
+    padding-top: 50px;
+    padding-right: 40px;
+    color: rgba(18, 2, 2, 0.716);
+    font-weight: bold;
+
+
+
+}
+
+
+
+.center-name {
+
+    margin-top: 215PX;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 65px;
+    font-weight: bolder;
+    color: white;
+}
+
+
+
+
+.School {
+    margin-top: 70PX;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    color: white;
+}
+
+.info {
+
+    margin-top: 20PX;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.learn {
+    padding-right: 23px;
+    padding-bottom: 12px;
+    padding-left: 23px;
+    padding-top: 12px;
+    font-size: larger;
+    margin-left: 625px;
+    margin-top: 23;
+
+
+
+    border-top-right-radius: 30px 30px;
+    border-top-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border-color: white;
+    background-color: white;
+    font: #2c2a9b;
+    font: linear-gradient(90deg, rgba(44, 42, 155, 1) 0%, rgba(96, 87, 199, 1) 47%, rgba(108, 82, 222, 1) 100%);
+    /* color:#33006F; */
+}
+
+.button {
+    margin-top: 48px;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+
+}
+
+.second_button {
+
+
+    padding-right: 23px;
+    padding-bottom: 12px;
+    padding-left: 23px;
+    padding-top: 14px;
+    font-size: larger;
+
+    margin-left: 80px;
+    margin-top: 21;
+    border-top-right-radius: 30px 30px;
+    border-top-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-image: url("https://img.freepik.com/free-photo/background-gradient-lights_23-2149305022.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    margin-right: 100px;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-color: white;
+    color: white;
+
+
+}
+
+button:hover {
+    background-image: url("https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209177459_Rectangle%20(34).svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+
+}
+
+.second_button:hover {
+    background-image: url("https://tiimg.tistatic.com/fp/0/238/plain-white-color-tiles-506.jpg");
+
+    color: black;
+}
+
+.second_button {
+    border-color: white;
+}
+
+.About {
+
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 25px;
+    margin-top: 140px;
+    text-align: center;
+
+
+}
+
+.About {
+
+    padding: 0px;
+
+    background-color: rgb(245, 244, 244);
+    height: 80vh;
+    justify-content: space-between;
+
+
+    /* background-color:rgb(240, 239, 239); */
+
+
+}
+
+
+.Heading {
+
+
+    margin-top: 80px;
+    font-size: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #060540;
+    font-weight: bold;
+
+
+
+    border-bottom: 3px solid rgb(72, 195, 236);
+    display: inline-block;
+
+    text-align: center;
+
+    /* So border fits just the text width */
+    padding-bottom: 2px;
+    /* background-color:rgb(243, 240, 240); */
+
+}
+
+.bold1 {
+
+    font-size: 20px;
+    text-align: left;
+    /* padding-right: 470px; */
+    background-color: rgb(245, 244, 244);
+    color: rgb(105, 104, 104);
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+
+
+
+}
+
+.each_card {
+    text-align: right;
+    margin-right: 500px;
+    margin-top: 45px;
+
+
+
+}
+
+/* .cardHolder {
+    padding-left:90px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    border-top-right-radius: 30px 30px;
+    border-top-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px; */
+
+/* } */
+
+
+
+
+
+
+
+
+
+
+
+
+.card1 {
+
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 10px 30px;
+    border-radius: 15px;
+    padding: 40px;
+    text-align: center;
+    height: 215px;
+    width: 200px;
+    transition: height 0.3s;
+}
+
+
+
+
+
+
+.leadership {
+    padding-left: 1px;
+    padding-right: 25px;
+    color: rgb(79, 79, 79);
+    padding-top: 0px;
+    font-size: large;
+
+}
+
+.display {
+
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(82, 202, 243);
+    padding-left: 1px;
+    padding-top: 18px;
+
+
+    font-weight: bolder;
+
+
+}
+
+.card1:hover {
+    height: 240px;
+}
+
+.programs {
+    padding-left: 1px;
+    padding-right: 25px;
+    padding-top: 0px;
+    color: rgb(79, 79, 79);
+    font-size: large;
+
+}
+
+.display2 {
+
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(82, 202, 243);
+
+    font-weight: bolder;
+
+}
+
+
+
+/* .cardHolder {
+    background-color: rgb(245, 244, 244);
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+    margin-top: 45px;
+      transition: height  1s;
+       margin-right: 150px;
+
+
+} 
+
+
+.cardHolder {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    width: 100%;  
+ 
+} */
+
+.cardHolder {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    background-color: rgb(245, 244, 244);
+    margin-top: 30px;
+}
+
+
+
+
+
+
+.add-margin {
+    padding-right: 20px;
+    margin-right: 5px;
+}
+
+.education2 {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #29275c;
+    margin-left: 680px;
+    font-weight: bold;
+    margin-top: 80px;
+    border-bottom: 3px solid rgb(72, 195, 236);
+    display: inline-block;
+    text-align: center;
+margin-bottom: 50px;
+
+}
+
+.information {
+
+    /* margin-top: 150px; */
+
+    /* margin-left: 450px; */
+
+    display: flex;
+    flex: wrap;
+    justify-content: space-around;
+    background-color: white;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 1.0) 0px 10px 30px;
+    border-radius: 15px;
+
+
+    height: 100px;
+    width: 1100px;
+    margin-top: 100px;
+    margin-left: 250px;
+    padding-bottom: 300px;
+    padding-top: 30px;
+    margin-bottom: 130px;
+
+
+}
+
+.bi {
+    color: rgb(72, 195, 236);
+    fill: rgb(72, 195, 236);
+
+    /* margin-left: 190px; */
+
+
+}
+
+.Thedoonschool {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(34, 34, 98);
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+.ISC {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(72, 195, 236);
+    font-weight: bolder;
+}
+
+.dehradun {
+    font-size: x-large;
+    color: rgb(128, 128, 128);
+}
+
+.context {
+    color: rgb(128, 128, 128);
+    font-size: x-large;
+}
+
+.awards {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #29275c;
+    margin-left: 580px;
+    font-weight: bold;
+    margin-top: 80px;
+    border-bottom: 3px solid rgb(72, 195, 236);
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+
+.grid-container {
+    display: grid;
+    /* activate grid */
+    grid-template-columns: repeat(3, 1fr);
+    /* 3 equal columns */
+    gap: 10px;
+    /* space between grid items */
+}
+
+.grid-item {
+    background-color: #ffffff;
+   
+    
+   box-shadow: rgba(0, 0, 0, 0.5) 0px 10px 30px;
+
+    padding-top: 0px;
+    padding-bottom: 75px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    margin-top: 120px;
+    border-radius: 15px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+.recognise {
+    background-color: rgb(245, 244, 244);
+    height: 120vh;
+}
+
+.grid-item {
+
+    color: rgb(34, 34, 98);
+    font-size: xx-large;
+    
+   
+}
+
+.grid-item:hover{
+     height: 300px;
+}
+
+
+
+.bi-trophy {
+
+    margin-left: 180px;
+    margin-top: 35px;
+    color: orange;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.score {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(128, 128, 128);
+
+}
+
+.certificate {
+
+    margin-left: 180px;
+    margin-top: 35px;
+    color: orange;
+}
